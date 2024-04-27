@@ -1,1 +1,1 @@
-![Alt Text](display.gif)![Alt Text](display1.gif)
+![Alt Text](banner.gif)
