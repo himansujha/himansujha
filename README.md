@@ -39,7 +39,7 @@ Feel free to explore my other repositories as well! You can find them in the Pro
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark&hide_title=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-himansujha&show_icons=true&theme=dark&hide_title=true)
 
 ---
 
