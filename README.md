@@ -91,7 +91,7 @@ I’m always looking for exciting collaborations, whether it’s building the ne
 
 ### 📈 Weekly Contributions
 
-![Your Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=himansujha&theme=github)
+![Your Contributions]([https://github-readme-activity-graph.cyclic.app/graph?username=himansujha&theme=github](https://images.pexels.com/photos/1054655/pexels-photo-1054655.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2))
 
 ---
 
