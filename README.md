@@ -6,6 +6,8 @@ Welcome to my GitHub profile! I’m a **Full-Stack Developer** passionate about 
   <img src="https://media.tenor.com/a_whMBZN2QMAAAAj/toothless-transparent.gif" width="180" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://media.tenor.com/2l4-h42qnmcAAAAj/toothless-dancing-toothless.gif" width="180" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://media.tenor.com/LT_2-txRsYEAAAAj/toothless-dancing.gif" width="160" />
 </p>
 
 <table align="center">
@@ -14,7 +16,7 @@ Welcome to my GitHub profile! I’m a **Full-Stack Developer** passionate about 
       <img src="https://media.tenor.com/a_whMBZN2QMAAAAj/toothless-transparent.gif" width="160" />
     </td>
     <td align="center">
-      <img src="https://media.tenor.com/LT_2-txRsYEAAAAj/toothless-dancing.gif" width="160" />
+      
     </td>
     <td align="center">
       <img src="https://media.tenor.com/2l4-h42qnmcAAAAj/toothless-dancing-toothless.gif" width="160" />
