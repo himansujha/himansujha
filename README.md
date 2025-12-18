@@ -1,6 +1,14 @@
 # 👋 Hi,Hi,Hi........!
 
-Welcome to my GitHub profile! I’m a **Full-Stack Developer** passionate about building scalable applications and contributing to open-source projects. I love working with modern tech stacks and solving real-world problems. Let’s explore my projects, skills, and contributions!
+<h2 align="center">
+I’m a <strong>Full-Stack Developer</strong> passionate about building scalable applications<br/>
+and contributing to open-source projects.
+</h2>
+
+<h3 align="center">
+I love working with modern tech stacks and solving real-world problems.<br/>
+Let’s explore my projects, skills, and contributions!
+</h3>
 
 <p align="center">
   <img src="https://media.tenor.com/a_whMBZN2QMAAAAj/toothless-transparent.gif" width="180" />
