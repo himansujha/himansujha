@@ -1,5 +1,10 @@
 # 👋 Hi,Hi,Hi........!
 
+<p align="center">
+  <img src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif" width="100%" />
+</p>
+
+
 <h2 align="center">
 I’m a <strong>Full-Stack Developer</strong> passionate about building scalable applications<br/>
 and contributing to open-source projects.
