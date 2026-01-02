@@ -10,9 +10,11 @@ I’m a <strong>Full-Stack Developer</strong> passionate about building scalable
 and contributing to open-source projects.
 </h2>
 
-<h3 align="center">
-I love working with modern tech stacks and solving real-world problems.<br/>
-Let’s explore my projects, skills, and contributions!
+<h3 align="left">
+𝗟𝗲𝘁 𝗺𝗲 𝘀𝘂𝗺𝗺𝗮𝗿𝗶𝘇𝗲 𝗮𝗯𝗼𝘂𝘁 𝗺𝗲 𝗿𝗲𝗮𝗹 𝗾𝘂𝗶𝗰𝗸:
+I am self taught Full Stack Software Engineer having 𝙩𝙝𝙧𝙚𝙚 𝙮𝙚𝙖𝙧𝙨 of experience in 𝘿𝙚𝙨𝙞𝙜𝙣𝙞𝙣𝙜, 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙞𝙣𝙜, 𝙖𝙣𝙙 𝘿𝙚𝙥𝙡𝙤𝙮𝙞𝙣𝙜 Systems, delivering user-centered 𝙐𝙄/𝙐𝙓, handling everything from research, wireframing, prototyping, testing to iteration. I work across a wide range of 𝙁𝙧𝙤𝙣𝙩𝙚𝙣𝙙, 𝘽𝙖𝙘𝙠𝙚𝙣𝙙, 𝘿𝙖𝙩𝙖𝙗𝙖𝙨𝙚, 𝘿𝙚𝙫𝙊𝙥𝙨 𝙏𝙚𝙘𝙝𝙣𝙤𝙡𝙤𝙜𝙞𝙚𝙨 𝙖𝙣𝙙 𝙁𝙧𝙖𝙢𝙚𝙬𝙤𝙧𝙠𝙨, always exploring better ways to build, optimize and scale application. I enjoy working with linux systems switching between terminals and tabs, writing shell scripts to automate tasks, and managing and hopping servers and pods on cloud.
+
+I also have a strong interest in industrial automation. Were I’ve worked on 𝙋𝙇𝘾 𝙥𝙧𝙤𝙜𝙧𝙖𝙢𝙢𝙞𝙣𝙜, 𝙃𝙈𝙄 𝙙𝙚𝙨𝙞𝙜𝙣, planning and deployment of full-scale industrial control systems.
 </h3>
 
 <p align="center">
