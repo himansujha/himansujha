@@ -5,11 +5,6 @@
 </p>
 
 
-<h2 align="center">
-I’m a <strong>Full-Stack Developer</strong> passionate about building scalable applications<br/>
-and contributing to open-source projects.
-</h2>
-
 <h3 align="left">
 𝗟𝗲𝘁 𝗺𝗲 𝘀𝘂𝗺𝗺𝗮𝗿𝗶𝘇𝗲 𝗮𝗯𝗼𝘂𝘁 𝗺𝗲 𝗿𝗲𝗮𝗹 𝗾𝘂𝗶𝗰𝗸:
   </h3>
