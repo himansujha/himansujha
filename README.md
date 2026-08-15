@@ -1,7 +1,11 @@
 <div align="center">
 
-  <!-- Hero Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,35,50&height=220&section=header&text=Himansu%20Jha&fontSize=42&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20Cloud%20%26%20DevOps&descFontSize=20&descAlignY=60&theme=tokyonight" width="100%" alt="Header Banner" />
+  <!-- Responsive Theme Header Banner -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="light.png">
+    <img alt="Himansu Jha Header Banner" src="dark.png" width="100%">
+  </picture>
 
   <!-- Animated Typewriter Subtitle -->
   <a href="https://github.com/himansujha">
