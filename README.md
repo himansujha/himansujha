@@ -134,30 +134,35 @@ himansu@cloud-engine:~$ neofetch --ascii_distro Arch
 
   <br /><br />
 
-  <!-- Side by Side Stats & Languages -->
+  <!-- Side by Side Stats & Languages Summary Cards -->
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=himansujha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=7EE787&text_color=C9D1D9" height="175" alt="Himansu's GitHub Stats" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himansujha&theme=tokyonight" height="190" alt="Himansu's GitHub Profile Details" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himansujha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="175" alt="Top Languages" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=himansujha&theme=tokyonight" height="190" alt="Most Used Languages" />
       </td>
     </tr>
   </table>
 
   <br />
 
-  <!-- Streak Stats -->
+  <!-- Streak Stats Tracker -->
   <img src="https://streak-stats.demolab.com?user=himansujha&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=7EE787" alt="GitHub Streak" />
 
 </div>
 
 <br />
 
-<!-- Contribution Snake -->
+### 🐍 Contribution Activity Snake
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/himansujha/himansujha/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/himansujha/himansujha/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/himansujha/himansujha/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/himansujha/himansujha/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
 </div>
 
 <br />
