@@ -17,24 +17,24 @@
     <tr>
       <td width="50%" align="center">
         <a href="https://www.youtube.com/watch?v=rfscVS0vtbw" target="_blank">
-          <img src="https://img.youtube.com/vi/rfscVS0vtbw/maxresdefault.jpg" alt="Python Full Course for Beginners" style="border-radius: 12px; width: 100%; max-width: 420px; display: block;" />
+          <img src="video1.svg" alt="Python Full Course for Beginners" width="100%" />
         </a>
       </td>
       <td width="50%" align="center">
         <a href="https://www.youtube.com/watch?v=8mAITcNt710" target="_blank">
-          <img src="https://img.youtube.com/vi/8mAITcNt710/maxresdefault.jpg" alt="CS50: Introduction to Computer Science" style="border-radius: 12px; width: 100%; max-width: 420px; display: block;" />
+          <img src="video2.svg" alt="CS50: Introduction to Computer Science" width="100%" />
         </a>
       </td>
     </tr>
     <tr>
       <td width="50%" align="center">
         <a href="https://www.youtube.com/watch?v=nu_pCVPKzTk" target="_blank">
-          <img src="https://img.youtube.com/vi/nu_pCVPKzTk/maxresdefault.jpg" alt="Full Stack Web Development Course" style="border-radius: 12px; width: 100%; max-width: 420px; display: block;" />
+          <img src="video3.svg" alt="Full Stack Web Development Course" width="100%" />
         </a>
       </td>
       <td width="50%" align="center">
         <a href="https://www.youtube.com/watch?v=8hly31xKli0" target="_blank">
-          <img src="https://img.youtube.com/vi/8hly31xKli0/maxresdefault.jpg" alt="Data Structures & Algorithms Course" style="border-radius: 12px; width: 100%; max-width: 420px; display: block;" />
+          <img src="video4.svg" alt="Data Structures & Algorithms Course" width="100%" />
         </a>
       </td>
     </tr>

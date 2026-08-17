@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="315" viewBox="0 0 560 315" fill="none">
+  <defs>
+    <linearGradient id="bg2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1A1118" />
+      <stop offset="100%" stop-color="#2D1522" />
+    </linearGradient>
+    <filter id="shadow2" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#000000" flood-opacity="0.5" />
+    </filter>
+  </defs>
+
+  <!-- Card with rounded corners -->
+  <rect width="560" height="315" rx="20" fill="url(#bg2)" />
+  <rect x="1" y="1" width="558" height="313" rx="19" stroke="#ffffff" stroke-opacity="0.12" stroke-width="1.5" fill="none" />
+
+  <!-- Ambient Glow -->
+  <circle cx="460" cy="70" r="130" fill="#A51C30" fill-opacity="0.22" />
+  <circle cx="100" cy="250" r="100" fill="#E11D48" fill-opacity="0.1" />
+
+  <!-- Category Tag -->
+  <rect x="36" y="36" width="130" height="28" rx="14" fill="#A51C30" fill-opacity="0.25" stroke="#A51C30" stroke-opacity="0.4" />
+  <text x="101" y="54" fill="#FB7185" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" text-anchor="middle" letter-spacing="1">HARVARD CS50</text>
+
+  <!-- Play Button -->
+  <g transform="translate(280, 138)">
+    <circle cx="0" cy="0" r="32" fill="#FF0000" filter="url(#shadow2)" />
+    <polygon points="-6,-12 -6,12 12,0" fill="#FFFFFF" />
+  </g>
+
+  <!-- Video Details -->
+  <text x="36" y="240" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="20" font-weight="700">CS50: Intro to Computer Science</text>
+  <text x="36" y="270" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="500">▶ Watch Lecture on YouTube • Full Series</text>
+</svg>
