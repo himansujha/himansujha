@@ -1,3 +1,3 @@
-<div align="center"><img src="background.svg" width="100%" alt="Background"/>
+<div align="center"><img src="1.png" width="100%" alt="Banner 1"/>
 
 <br/>
